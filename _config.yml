@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://blog.hdsomebao.tk
+url: 
 date_format: "ordinal"
 title: Jiabao's Blog
 subtitle: "一个爱好编程的地质狗"
@@ -12,7 +12,6 @@ timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
 repository: li-jiabao/myblog.github.io
-encoding: utf-8
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -58,9 +57,9 @@ navs:
     href: /categories/
     label: 分类
 
-#   -
-#     href: /archives/
-#     label: 归档
+  -
+    href: /archives/
+    label: 归档
 
 #   -
 #     href: /open-source/
