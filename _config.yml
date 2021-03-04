@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: 
+  url: https://blog.hdsomebao.tk
 date_format: "ordinal"
 title: Jiabao's Blog
 subtitle: "一个爱好编程的地质狗"
