@@ -1,27 +1,31 @@
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
+  name: li-jiabao
+  url: https://github.com/li-jiabao
 
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
+# - sitename: 掘金
+#   name: mzlogin
+#   url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
 
 - sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
+  name: lijiabao
+  url: https://www.linkedin.com/in/lijiabao
 
 - sitename: 博客
-  name: 码志
-  url: http://mazhuang.org
+  name: Jiabao's Blog
+  url: http://blog.hdsomebao.tk
 
-- sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
+# - sitename: 微博
+#   name:
+#   url: http://weibo.com/mzlogin
 
 - sitename: 知乎
   name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
+  url: http://www.zhihu.com/people/yiyi-80-25-54
 
-- sitename: 豆瓣
-  name: 闷骚的程序员
-  url: http://www.douban.com/people/freedim
+- sitename: 维基
+  name: Jiabao's Blog
+  url: http://wiki.hdsomebao.tk
+
+# - sitename: 豆瓣
+#   name: 闷骚的程序员
+#   url: http://www.douban.com/people/

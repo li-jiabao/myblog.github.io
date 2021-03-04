@@ -1,19 +1,23 @@
-- name: Software Engineer Keywords
+- name: Develpoer's needed skill
   keywords:
       - Java
-      - C++
       - Python
-      - Design Patterns
+      - Linux
 
-- name: Mobile Developer Keywords
+- name: Gelogical Engineer
   keywords:
-      - Android
-      - Reverse Engineering
+      - Geological Engineering
+      - Slope Engineering
+      - Tunnel Engineering
+# - name: Mobile Developer Keywords
+#   keywords:
+#       - Android
+#       - Reverse Engineering
 
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+# - name: Windows Developer Keywords
+#   keywords:
+      # - Win32 SDK
+      # - DuiLib
+      # - WTL
+      # # - COM
+      # - WinDbg

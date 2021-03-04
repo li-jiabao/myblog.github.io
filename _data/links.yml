@@ -1,3 +1,11 @@
+- name: Jiabao's wiki
+  url: http://wiki.hdsoembao.tk
+  src: Study
+
+- name: Jiabao's Blog
+  url: http://blog.hdsoembao.tk
+  src: Study
+
 - name: 码志
   url: http://mazhuang.org
   src: life
