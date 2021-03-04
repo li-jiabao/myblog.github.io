@@ -1,9 +1,10 @@
 ---
-title: jekyll语法
+title: jekyll grammar
 author: lijiabao
-date: 2021-03-02 00:34:31 +0800
 categories: Blog
+tags: Blog
 ---
+
 
 #### 语法规则
 
