@@ -25,7 +25,8 @@ xxx.github.io，如果自己有域名可以使用，可以在github pages设置�
 _layouts放置界面配置文件 也就是布局参考，在这里设置博客界面以及主页界面等
 _includes包含一些在多个layout中可能使用的界面文件
 _data中放置一些配置文件yml，json等
-
+_posts中放置自己的博文文件，命名有格式要求的，一般为yyyy-mm-dd-article-title.md
+_drafts放置的是还没有写好的草稿文件，可以选择是否展示草稿文件
 
 ## 致谢
 
