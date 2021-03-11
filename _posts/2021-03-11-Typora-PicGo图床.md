@@ -1,9 +1,11 @@
+---
 title: Typora-PicGo图床
 author: lijiabao
 date: 2021-03-11 12:00
 description: 这篇文章主要介绍如何使用PicGo配置图床并应用到typora中
 categories: Markdown
 tags: Markdown
+---
 
 ## PicGo
 
