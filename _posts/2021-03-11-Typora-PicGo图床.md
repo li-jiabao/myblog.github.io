@@ -6,6 +6,8 @@ description: 这篇文章主要介绍如何使用PicGo配置图床并应用到ty
 categories: Markdown
 tags: Markdown
 ---
+主要介绍一下快速上传图片并获取图片的url链接的一个实用工具picgo的安装、使用和配置
+
 
 ## PicGo
 
