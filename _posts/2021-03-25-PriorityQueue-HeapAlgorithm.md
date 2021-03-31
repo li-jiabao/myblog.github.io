@@ -2,8 +2,8 @@
 title: 优先级队列和堆算法
 author: lijiabao
 date: 2021-03-25 22:30
-categories: ["DataStruture and Alogrithm"]
-tags: ["DataStruture and Alogrithm"]
+categories: ["排序", "DataStruture and Alogrithm"]
+tags: ["排序", "DataStruture and Alogrithm"]
 ---
 
 介绍一下优先级队列的概念以及优先级队列的简单实现，接着介绍了堆的定义以及如何使用堆来实现优先级队列，其中还介绍了一些可能的堆算法的改进。

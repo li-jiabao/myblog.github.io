@@ -2,8 +2,8 @@
 title: 排序的应用技巧和重要性
 author: lijiabao
 date: 2021-03-26 17:30
-categories: ["DataStruture and Alogrithm"]
-tags: ["DataStruture and Alogrithm"]
+categories: ["排序", "DataStruture and Alogrithm"]
+tags: ["排序", "DataStruture and Alogrithm"]
 ---
 
 记录一下排序在实际应用中的一些需要了解的技巧和理论，并介绍了排序算法的稳定性和时空复杂度。

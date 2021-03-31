@@ -2,8 +2,8 @@
 title: 归约和排序应用实例
 author: lijiabao
 date: 2021-03-28 15:00
-categories: ["DataStruture and Alogrithm"]
-tags: ["DataStruture and Alogrithm"]
+categories: ["排序", "DataStruture and Alogrithm"]
+tags: ["排序", "DataStruture and Alogrithm"]
 ---
 
 归约：指为了解决某个问题发明的算法正好可以用来解决另外一种问题。排序算法来解决其他问题的思想就是该算法领域基本技巧归约的例子。介绍排序算法归约的应用实例

@@ -2,8 +2,8 @@
 title: 堆排序
 author: lijiabao
 date: 2021-03-26 14:30
-categories: ["DataStruture and Alogrithm"]
-tags: ["DataStruture and Alogrithm"]
+categories: ["排序", "DataStruture and Alogrithm"]
+tags: ["排序", "DataStruture and Alogrithm"]
 ---
 
 介绍一下基于堆实现的优先级序列如何应用在排序中来，以及堆排序的一些优点和缺点
