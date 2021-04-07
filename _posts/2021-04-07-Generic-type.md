@@ -151,7 +151,7 @@ public class Transaction<T extends Number>
 
 ![泛型继承关系](https://cdn.jsdelivr.net/gh/li-jiabao/NoteImg@main/img/%E6%B3%9B%E5%9E%8B%E7%BB%A7%E6%89%BF%E5%85%B3%E7%B3%BB.png)
 
-泛型类是可以继承泛型类或者泛型接口的，这些继承的规则和正常类的继承规则一样。比如：`ArrayList<T>`实现了`List<T>`接口，因此，可以将使用类似的继承和多态`List<Number> ints = new ArrayList<Integer>`，但是也和前面说的一样，`ArrayList<Integer>`并不是`ArrayList<Number>`
+泛型类是可以继承泛型类或者泛型接口的，这些继承的规则和正常类的继承规则一样。比如：`ArrayList<T>`实现了`List<T>`接口，因此，可以将使用类似的继承和多态`List<Number> ints = new ArrayList<Number>`，但是也和前面说的一样，`ArrayList<Integer>`并不是`ArrayList<Number>`
 
 ![](https://cdn.jsdelivr.net/gh/li-jiabao/NoteImg@main/img/%E6%B3%9B%E5%9E%8B%E7%B1%BB%E7%AD%89%E7%BA%A7%E5%88%B6%E5%BA%A6.png)
 
