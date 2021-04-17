@@ -356,16 +356,3 @@ SELECT sepcies, sex, COUNT(*) FROM pet
 WHERE species = 'dog' OR species = 'cat'
 GROUP BY species, sex;  -- 找出品种为狗或者猫的数据项和行数
 ```
-
-
-
-##　MySQL数据类型
-
-### 数值型数据类型
-
-精确数值类型：（INTEGER，SMALLINT，DECIMAL，NUMERIC）
-
-估计型数值类型：（FLOAT，REAL，DOUBLE PRECISION）
-
-比特数值：BIT存储bit数值，支持MyISAM，MEMORY，InnoDB和NDB表
-
