@@ -356,3 +356,6 @@ SELECT sepcies, sex, COUNT(*) FROM pet
 WHERE species = 'dog' OR species = 'cat'
 GROUP BY species, sex;  -- 找出品种为狗或者猫的数据项和行数
 ```
+
+
+
