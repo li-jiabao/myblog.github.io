@@ -1,5 +1,5 @@
 ---
-title: MySQL基础使用
+title: MySQL-CRUD
 author: lijiabao
 date: 2021-05-04 20:30
 categories: ["MySQL", "Database"]
